@@ -25,7 +25,7 @@ It uses the python `logging` system by creating a subclass of `logging.LoggerAda
 ## Install
 
 ```
-pip install azure-devops-logger
+pip install azlog
 ```
 
 ## Usage
