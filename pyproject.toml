@@ -1,6 +1,6 @@
 [project]
 name = "azlog"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python module to ease Azure DevOps pipelines logging commands"
 authors = [
     {name = "Jonathan Scherrer", email = "jonathan.s.scherrer@gmail.com"},
